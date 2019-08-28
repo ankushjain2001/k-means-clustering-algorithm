@@ -13,3 +13,19 @@ This is an implementation of K-Means clustering algorithm along with the K-Means
 ### Manual Implementation Clusters
 
 <p align="center"><img src="readme/02_manual_output.png" title="Manual Output" width=70%></p>
+
+### Confusion Matrix - Iris True Clusters v/s Manual Implementation Clusters
+
+||0|1|2|
+|:---:|:---:|:---:|:---:|
+|0|50|0|0|
+|1|0|48|2|
+|2|0|14|36|
+
+### Confusion Matrix - SK Learn Clusters v/s Manual Implementation Clusters
+
+||0|1|2|
+|:---:|:---:|:---:|:---:|
+|0|50|0|0|
+|1|0|62|0|
+|2|0|0|38|
