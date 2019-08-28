@@ -29,3 +29,11 @@ This is an implementation of K-Means clustering algorithm along with the K-Means
 |0|50|0|0|
 |1|0|62|0|
 |2|0|0|38|
+
+### Confusion Matrix - Iris True Clusters v/s SK Learn Clusters
+
+||0|1|2|
+|:---:|:---:|:---:|:---:|
+|0|50|0|0|
+|1|0|62|0|
+|2|0|0|38|
